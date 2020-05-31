@@ -1,6 +1,6 @@
 # Linear_Equation_Solver
 This is a C program which will help you to perform Gaussian Elimination on an Augmented Matrix.
 
-It will also give the Solution for Ax = B if it exist or else will give the basis of the Null Space of given A.
+It will also give the Solution for Ax = B if it exist or else will give the basis of the Null Space for given A.
 
-Note: - Give input as Augmented Matrix.
+> **Note** <br>	Give input as Augmented Matrix.
